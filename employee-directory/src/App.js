@@ -1,7 +1,7 @@
 import React from 'react';
 import "./App.css";
 import Header from './components/Header';
-import EmployeesContainer from './components/container/EmployeesContainer';
+import EmployeesContainer from '../src/components/Container/EmployeesContainer';
 
 function App() {
   return (
