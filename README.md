@@ -6,6 +6,8 @@ This assignment utilization of react to launch an employee directory application
 
 This assignmenet entails React which is a new based programming software and it allows developers to make and launch apps fairly quickly due to its lightweight architecture.
 
+[link to URL](https://zarriei.github.io/Employee-Directory/)
+
 ##License
 
 MIT License
